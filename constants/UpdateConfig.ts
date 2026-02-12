@@ -11,7 +11,7 @@ export const UPDATE_CONFIG = {
 
   // 获取平台特定的下载URL
   getDownloadUrl(version: string): string {
-    return `https://ghfast.top/https://github.com/203535211/YunDuoTV/releases/download/v${version}/orionTV.${version}.apk`;
+    return `https://ghfast.top/https://github.com/203535211/YunDuoTV/releases/download/v${version}/YunDuoTV.${version}.apk`;
   },
 
   // 是否显示更新日志
